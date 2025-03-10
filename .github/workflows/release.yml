@@ -44,3 +44,5 @@ jobs:
           version: latest
           args: release --config ../${{ matrix.config }}
           workdir: tau
+        env:
+          GITHUB_TOKEN: ${{ secrets.GORELEASER_TOKEN }}
