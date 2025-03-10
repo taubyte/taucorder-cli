@@ -4,7 +4,7 @@ An tool to interact with your taubyte cloud.
 
 # Installation
 
-- Download the binary from the [releases page](https://github.com/taubyte/taucorder/releases)
+- Download the binary from the [releases page](https://github.com/taubyte/taucorder-cli/releases)
 - Make the binary executable
 - Move the binary to a directory in your PATH
 
